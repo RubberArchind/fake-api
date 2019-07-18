@@ -1,5 +1,11 @@
 {
-  "heroes": [
+  "heroesdc": [
+    { "id": 1, "name": "Shazam", "desc": "he is transformed into the World's Mightiest Mortal—Shazam!", "imgURL" : "https://images.squarespace-cdn.com/content/v1/56a027275a56686ee6b4b0e7/1555390102937-QJSJWNBVNV8W0QMWCTJV/ke17ZwdGBToddI8pDm48kJiGxlYnv2LxSJv3qmfqZG9Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-sjWfmpQjyr9PLmgjLVAtjLugA57mWT4CSDOv0WC3pniQ/shazam-movie-review.jpg" },
+    { "id": 2, "name": "Supermab", "desc": "Faster than a speeding bullet, more powerful than a locomotive…", "imgURL" : "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/SupermanRoss.png/250px-SupermanRoss.png" },
+    { "id": 3, "name": "Batman", "desc": "Bruce Wayne wages eternal war on the criminals of Gotham City.", "imgURL" : "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Batman_%28Michael_Keaton%29.jpg/200px-Batman_%28Michael_Keaton%29.jpg" },
+    { "id": 4, "name": "Wonder Woman", "desc": "Beautiful as Aphrodite, wise as Athena", "imgURL" : "https://upload.wikimedia.org/wikipedia/en/e/ed/Wonder_Woman_%282017_film%29.jpg" }
+  ],
+   "heroesmarvel": [
     { "id": 1, "name": "Shazam", "desc": "he is transformed into the World's Mightiest Mortal—Shazam!", "imgURL" : "https://images.squarespace-cdn.com/content/v1/56a027275a56686ee6b4b0e7/1555390102937-QJSJWNBVNV8W0QMWCTJV/ke17ZwdGBToddI8pDm48kJiGxlYnv2LxSJv3qmfqZG9Zw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-sjWfmpQjyr9PLmgjLVAtjLugA57mWT4CSDOv0WC3pniQ/shazam-movie-review.jpg" },
     { "id": 2, "name": "Supermab", "desc": "Faster than a speeding bullet, more powerful than a locomotive…", "imgURL" : "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/SupermanRoss.png/250px-SupermanRoss.png" },
     { "id": 3, "name": "Batman", "desc": "Bruce Wayne wages eternal war on the criminals of Gotham City.", "imgURL" : "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Batman_%28Michael_Keaton%29.jpg/200px-Batman_%28Michael_Keaton%29.jpg" },
