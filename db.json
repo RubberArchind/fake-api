@@ -6,9 +6,9 @@
     { "id": 4, "name": "Wonder Woman", "desc": "Beautiful as Aphrodite, wise as Athena", "imgURL" : "https://upload.wikimedia.org/wikipedia/en/e/ed/Wonder_Woman_%282017_film%29.jpg" }
   ],
    "heroesmarvel": [
-    { "id": 1, "name": "Wolverine", "desc": "He is a wolf!", "imgURL" : "https://comicvine1.cbsistatic.com/uploads/scale_small/1/14487/6972121-wolverine.jpg" },
-    { "id": 2, "name": "Spiderman", "desc": "He is a spider!", "imgURL" : "https://comicvine1.cbsistatic.com/uploads/scale_small/8/80103/6197311-c6d76a022f2dcf57c29e2ef87a3c7d47.jpg" },
-    { "id": 3, "name": "Thor", "desc": "He is son of Odin", "imgURL" : "https://comicvine1.cbsistatic.com/uploads/scale_small/10/100647/6436253-thor2.jpg" },
-    { "id": 4, "name": "Iron Man", "desc": "He is a Robot Man :D", "imgURL" : "https://comicvine1.cbsistatic.com/uploads/scale_small/3/31666/4956367-invim2015001-maleevvar-d8a38.jpg" }
+    { "id": 5, "name": "Wolverine", "desc": "He is a wolf!", "imgURL" : "https://comicvine1.cbsistatic.com/uploads/scale_small/1/14487/6972121-wolverine.jpg" },
+    { "id": 6, "name": "Spiderman", "desc": "He is a spider!", "imgURL" : "https://comicvine1.cbsistatic.com/uploads/scale_small/8/80103/6197311-c6d76a022f2dcf57c29e2ef87a3c7d47.jpg" },
+    { "id": 7, "name": "Thor", "desc": "He is son of Odin", "imgURL" : "https://comicvine1.cbsistatic.com/uploads/scale_small/10/100647/6436253-thor2.jpg" },
+    { "id": 8, "name": "Iron Man", "desc": "He is a Robot Man :D", "imgURL" : "https://comicvine1.cbsistatic.com/uploads/scale_small/3/31666/4956367-invim2015001-maleevvar-d8a38.jpg" }
   ]
 }
